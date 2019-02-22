@@ -1,0 +1,223 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	background-color: #C3C4C6;
+}
+
+.heading{
+	color: #061D92;
+	font-size: 75px;
+	font-style: italic;
+	font-weight: lighter;
+	text-decoration-line: ultra-expanded;
+	text-align: center;
+	text-shadow: 2px 2px #051566;
+	letter-spacing: 2px;
+	border-style: solid;
+	border-style: groove;
+	border-width: 25px;
+	border-color: #051566;
+	border-radius: 50px 15px;
+	width: 900px;
+	height: 100px;
+	margin: 15px;
+	position: relative;
+}
+
+.texaslogo{
+	position: absolute;
+	right: 595px;
+	top: 48px;
+}
+
+.graysquare{
+	height:145px;
+	width: 500px;
+	position: relative;
+	bottom: 20px;
+}
+
+.introNote{
+	position: absolute;
+	left: 1060px;
+	top: 30px;
+	font-size: 22px;
+}
+
+.verticalBarLeft{
+	position: relative;
+	bottom: 235px;
+}
+
+.verticalBarRight{
+	position: relative;
+	left: 1473px;
+	bottom: 235px;
+}
+
+.guarantee{
+	position: absolute;
+	height: 250px;
+	width: 550px;
+	right: 930px;
+	top: 210px;
+	border-radius: 15px;
+}
+
+.paypal{
+	position: absolute;
+	width: 730px;
+	height: 160px;
+	border-radius: 15px;
+	right: 110px;
+	top: 270px;
+}
+
+.navbar{
+	text-align: center;
+	font-size: 35px;
+	width: 875px;
+	position: relative;
+	left: 600px;
+}
+
+.navbar a:link{color: #061D92;}
+
+.navbar a:visited{color: #580DAA;}
+
+.navbar a:hover{color: #DA140A;}
+
+.blueBar{
+	position: absolute;
+	top: 500px;
+	height: 25px;
+	width: 1492px;
+}
+
+.aboutBox{
+	color: #000000;
+	font-size: 25px;
+	font-weight: lighter;
+	text-decoration-line: ultra-expanded;
+	text-align: left;
+	border-style: solid;
+	border-style: groove;
+	border-width: 10px;
+	border-color: #051566;
+	border-radius: 15px 50px;
+	width: 875px;
+	margin: 15px;
+	position: absolute;
+	top: 280px;
+	left: 570px;
+	padding: 11px 11px 11px 11px;
+	text-indent: 9px;
+}
+
+.aboutBox2{
+	color: #000000;
+	font-size: 25px;
+	font-weight: lighter;
+	text-decoration-line: ultra-expanded;
+	text-align: center;
+	border-style: solid;
+	border-style: groove;
+	border-width: 10px;
+	border-color: #051566;
+	border-radius: 50px 15px;
+	width: 450px;
+	height: 150px;
+	margin: 15px;
+	position: absolute;
+	right: 975px;
+	bottom: 350px;
+	top: 280px;
+	padding: 7px 7px 7px 7px;
+	text-indent: 9px;
+}
+
+.aboutBox3{
+	color: #000000;
+	font-size: 25px;
+	font-weight: bold;
+	text-decoration-line: ultra-expanded;
+	text-align: center;
+	border-style: solid;
+	border-style: groove;
+	border-width: 10px;
+	border-color: #051566;
+	border-radius: 50px 15px;
+	width: 600px;
+	margin: 15px;
+	padding: 7px 7px 7px 7px;
+	text-indent: 9px;
+	position: relative;
+	left: 625px;
+}
+
+#product_table{
+	border-collapse: separate;
+	border-spacing: 25px 5px;
+	position: relative;
+	right: -320px;
+	bottom: 1200px;
+}
+
+td{
+
+	width: 400px;
+}
+
+
+#buynow1{
+	position: absolute;
+	left: 485px;
+	bottom: -340px;
+}
+
+#price1{
+	position: absolute;
+	left: 375px;
+	bottom: -370px;
+	border: solid;
+	border-width: 2px;
+	border-radius: 40px;
+	border-color: red;
+	background-color: red;
+	padding: 3px;
+	font-size: 1.7em;
+}
+
+#more{
+	display: none;
+}
+
+#buynowtwo{
+	position: absolute;
+	left: 895px;
+	bottom: -340px;
+}
+
+#pricetwo{
+	position: absolute;
+	left: 795px;
+	bottom: -370px;
+	border: solid;
+	border-width: 2px;
+	border-radius: 40px;
+	border-color: red;
+	background-color: red;
+	padding: 3px;
+	font-size: 1.7em;
+}
+
+#more2{
+	display: none;
+}
+
+#chat{
+	height: 100px;
+}
+
+
+
